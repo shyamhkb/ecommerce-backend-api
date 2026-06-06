@@ -1,0 +1,11 @@
+Flask is the web framework.
+
+Flask-SQLAlchemy is an ORM (Object Relational Mapper) for database interaction.
+
+Flask-JWT-Extended handles creating and verifying JSON Web Tokens.
+
+python-dotenv loads environment variables from a .env file.
+
+bcrypt hashes user passwords.
+
+pillow is a library for image processing.
